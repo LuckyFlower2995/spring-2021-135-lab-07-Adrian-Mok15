@@ -1,9 +1,8 @@
 #include <iostream>
-
-
+#include <vector>//vectors
+#include <string>//std::string.back()
 #include "funcs.h"
 
-int main()
-{
-  return 0;
+int main(){
+    executePrograms();
 }
