@@ -6,7 +6,7 @@
 
 * GitHub username:Adrian-Mok15
 
-* Notes:Included calc3.cpp as test file along with bad-code.cpp.
+* Notes:Included input.cpp
 
 
 
