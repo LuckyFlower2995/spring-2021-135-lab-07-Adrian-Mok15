@@ -1,6 +1,5 @@
 #include <iostream>
 #include <cctype>
-#include <string>//std::string.back()
 #include <vector>//vectors
 #include "funcs.h"
 std::string removeLeadingSpaces(std::string line){
